@@ -7,8 +7,10 @@
 
   <p><a href="https://github.com/betulsmanav/redux-news-project" target="_blank" rel="noreferrer">Redux Project</a></p>
    <p><a href="https://github.com/betulsmanav/fireblog-app" target="_blank" rel="noreferrer">Firebase Project- React</a></p> 
-  <p><a href="" target="_blank" rel="noreferrer"></a></p>
-  <p><a href="" target="_blank" rel="noreferrer"></a></p>
+  <p><a href="https://github.com/betulsmanav/movie-app" target="_blank" rel="noreferrer">Movie App</a></p>
+  <p><a href="https://github.com/betulsmanav/recipe-app" target="_blank" rel="noreferrer">Recipe App</a></p>
+   <p><a href=" https://github.com/betulsmanav/task-tracker-json-server" target="_blank" rel="noreferrer">Task Tracker</a></p>
+ 
   
 </details>
   <hr/>
