@@ -1,5 +1,5 @@
 
-Hi 👋, I'm Şule
+Hi 👋, I'm Betul
 I'm a hard-working full-stack developer from Turkey.
 I am an individual with a keen eye for details,
 seeking to advance my growing tech career as a Software Developer and
