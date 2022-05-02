@@ -1,11 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Betul</h1>
-<h3 align="center">I'm a hard-working full-stack developer from Turkey. <br> I am an individual with a keen eye for details, <br> seeking to advance my growing tech career as a Software Developer and <br> bringing my troubleshooting skills to engineer responsive solutions along with like-minded peers.<br> Ask me about <a href="https://github.com/Sule-Ss?tab=repositories">**projects!**</a></h3>
+<h3 align="center">I'm a hard-working full-stack developer from Turkey. <br> I am an individual with a keen eye for details, <br> seeking to advance my growing tech career as a Software Developer and <br> bringing my troubleshooting skills to engineer responsive solutions along with like-minded peers.<br> Ask me about <a href="https://github.com/betulsmanav?tab=repositories">**projects!**</a></h3>
 
 <details align="center">
   <summary><h3><em>Click For React Projects!</em></h3></summary>
 
-  <p><a href= target="_blank" rel="noreferrer"></a></p>
+  <p><a href="https://github.com/betulsmanav/redux-news-project" target="_blank" rel="noreferrer">Redux Project</a></p>
+   <p><a href="https://github.com/betulsmanav/fireblog-app" target="_blank" rel="noreferrer">Firebase Project- React</a></p> 
+  <p><a href="" target="_blank" rel="noreferrer"></a></p>
+  <p><a href="" target="_blank" rel="noreferrer"></a></p>
   
 </details>
   <hr/>
