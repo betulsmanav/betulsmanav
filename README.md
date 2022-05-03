@@ -18,11 +18,9 @@
 <details align="center">
   <summary><h3><em>Click For Javascript Projects!</em></h3></summary>
  
-<!--   <p><a href="https://github.com/betulsmanav/to-do-list" target="_blank" rel="noreferrer">To Do App</a></p> -->
     <p><a href="https://github.com/betulsmanav/book-list" target="_blank" rel="noreferrer">Book List</a></p>
     <p><a href="https://github.com/betulsmanav/Exact_Age_Calculator" target="_blank" rel="noreferrer">Age Calculator</a></p>
    <p><a href="https://github.com/betulsmanav/Find-the-Number-Game" target="_blank" rel="noreferrer">Find The Number Game</a></p>
-<!--   <p><a href= target="_blank" rel="noreferrer"></a></p> -->
  
 </details>
   <hr/>
