@@ -18,7 +18,8 @@
 <details align="center">
   <summary><h3><em>Click For Javascript Projects!</em></h3></summary>
  
-    
+    <p><a href="https://github.com/betulsmanav/Exact_Age_Calculator" target="_blank" rel="noreferrer">Age Calculator</a></p>
+ 
    <p><a href="https://github.com/betulsmanav/Find-the-Number-Game" target="_blank" rel="noreferrer">Find The Number Game</a></p>
  
 </details>
