@@ -6,8 +6,8 @@
   <summary><h3><em>Click For Django Rest Projects!</em></h3></summary>
 
   <p><a href="https://github.com/betulsmanav/flightApp" target="_blank" rel="noreferrer">FlightApp Project</a></p>
-   <p><a href="https://github.com/betulsmanav/URLShortener" target="_blank" rel="noreferrer">Url Shortener Projrct</a></p> 
-  <p><a href="https://github.com/betulsmanav/MateHand" target="_blank" rel="noreferrer">Social Media Database Dizayn</a></p>
+   <p><a href="https://github.com/betulsmanav/URLShortener" target="_blank" rel="noreferrer">Url Shortener Project</a></p> 
+  <p><a href="https://github.com/betulsmanav/MateHand" target="_blank" rel="noreferrer">Social Media Database Desing(postgreSQL)</a></p>
   
  
   
